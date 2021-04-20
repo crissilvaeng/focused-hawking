@@ -31,7 +31,7 @@ The same principle is applied to commits messages, "..." is too common, so why n
 	random = !git add -A && git commit -m \"$(curl -s http://whatthecommit.com/index.txt)\"
 ```
 
-Awesome! Children, don't do this at home. Not at work either!
+Awesome! Children, don't do this ~~at home. Not~~ at work ~~either~~!
 
 ## License
 
